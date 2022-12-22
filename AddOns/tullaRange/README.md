@@ -1,1 +1,0 @@
-tullaRange is an addon that's main purpose is to make action buttons appear red when out of range.

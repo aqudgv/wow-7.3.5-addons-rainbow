@@ -1,8 +1,0 @@
-## Interface: 70300
-## Author: Alea
-## Title: CrucibleWeight
-## Version: 18
-## Notes: 
-## SavedVariables: CrucibleWeightDB
-
-core.lua
