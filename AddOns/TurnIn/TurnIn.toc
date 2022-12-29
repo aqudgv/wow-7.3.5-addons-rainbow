@@ -1,0 +1,15 @@
+﻿## Interface: 70300
+## Title: TurnIn
+## Title-zhCN: [大脚][集]自动交接任务
+## Title-zhTW: [大腳][集]自動交接任務
+## Notes: |cffbc8f8fAutomates the selection of quest and gossip options.|r
+## Notes-zhCN: |cff00ff00TurnIn|r|n|cffbc8f8f帮助你快速接受及交还任务。|r
+## Notes-zhTW: |cff00ff00TurnIn|r|n|cffbc8f8f幫助你快速接受及交還任務。|r
+## SavedVariables: TI_status, TI_NPCDB, TI_NPCIndex
+## Version: 2.1
+## Dependencies: BigFoot
+## X-Revision: BigFoot
+## LoadOnDemand: 1
+
+localization.lua
+TurnIn.xml
