@@ -1,0 +1,8 @@
+## Interface: 70300
+## Title: GnomeSequencer
+## Notes: Allows you to execute a sequence of macros without stopping on unusable spells.
+## Author: Semlar
+## Version: 7.3.0.1
+errorhandler.lua
+Sequences.lua
+Core.lua
